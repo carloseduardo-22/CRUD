@@ -1,0 +1,6 @@
+# arquivos gerados pelo BlueJ / compilador
+*.class
+*.ctxt
+# banco usado só pelos testes automatizados e arquivos temporários do SQLite
+pacientes_teste.db
+*.db-journal
